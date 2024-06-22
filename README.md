@@ -14,7 +14,7 @@ Data splits: train (80%), test (20%)
 
 ## Model
 
-More details can be found at [idefics2-edgar](https://huggingface.co/chenghao/idefics2-edgar).
+More details can be found at [idefics2-edgar](https://huggingface.co/chenghao/idefics2-edgar). The training script can be run with a single GPU (A100-80GB) with low resolution input and QLoRA training.
 
 ## References:
 1. [@NielsRogge](https://github.com/NielsRogge)'s tutorial [Fine_tune_Idefics2_for_multi_page_PDF_question_answering_on_DUDE.ipynb](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/Idefics2/Fine_tune_Idefics2_for_multi_page_PDF_question_answering_on_DUDE.ipynb)
