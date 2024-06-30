@@ -1,5 +1,7 @@
 # Fine-tuning Idefics2 on EDGAR Contract QA Dataset
 
+See [Blog](https://sleeplessindebugging.blog/posts/20240630131948) for more details.
+
 1. `dataset.ipynb` prepares the dataset.
 2. `train.py` fine-tunes the model on the dataset.
 3. `benchmark.ipynb` evaluates the model on the test dataset.
